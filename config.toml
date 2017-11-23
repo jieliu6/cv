@@ -1,4 +1,4 @@
-baseurl = "jieliu6.github.io/cv"
+baseurl = "https://jieliu6.github.io"
 title = "Jie Liu"
 copyright = "&copy; 2017 Jie Liu"
 theme = "academic"
