@@ -1,4 +1,4 @@
-baseurl = "https://jieliu6.github.io"
+baseurl = "https://jieliu6.github.io/"
 title = "Jie Liu"
 copyright = "&copy; 2017 Jie Liu"
 theme = "academic"
@@ -47,7 +47,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "University of Washington", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "/img/portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "liu6@uw.edu"
   address = "South Foege Building, S-220, 3720 15th Ave NE, Seattle WA 98195"
 
