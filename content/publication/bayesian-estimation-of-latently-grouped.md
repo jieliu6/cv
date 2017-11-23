@@ -35,7 +35,7 @@ selected = false
 projects = ["graphical_model_learning"]
 
 # Links (optional).
-url_pdf = "http://pages.cs.wisc.edu/~jieliu/papers/NIPS13_liu.pdf"
+url_pdf = "https://papers.nips.cc/paper/4961-bayesian-estimation-of-latently-grouped-parameters-in-undirected-graphical-models.pdf"
 
 # Does the content use math formatting?
 math = true

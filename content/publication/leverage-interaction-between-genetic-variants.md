@@ -35,7 +35,7 @@ selected = false
 projects = ["radiogenomics"]
 
 # Links (optional).
-url_pdf = "http://pages.cs.wisc.edu/~jieliu/papers/AMIA-CRI15_liu.pdf"
+url_pdf = "files/AMIA-CRI15_liu.pdf"
 
 # Does the content use math formatting?
 math = true

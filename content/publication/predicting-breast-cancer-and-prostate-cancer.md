@@ -35,7 +35,7 @@ selected = false
 projects = ["precision-medicine"]
 
 # Links (optional).
-url_pdf = "http://pages.cs.wisc.edu/~jieliu/papers/SLG13_liu.pdf"
+url_pdf = "files/MLHealth13_liu.pdf"
 
 # Does the content use math formatting?
 math = true

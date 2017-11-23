@@ -35,7 +35,7 @@ selected = false
 projects = ["graphical-model-learning"]
 
 # Links (optional).
-url_PDF = "http://pages.cs.wisc.edu/~jieliu/papers/AISTATS14_liu.pdf"
+url_PDF = "files/AISTATS14_liu.pdf"
 
 # Does the content use math formatting?
 math = true

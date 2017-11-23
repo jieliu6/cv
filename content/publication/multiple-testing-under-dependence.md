@@ -36,7 +36,7 @@ selected = false
 projects = ["multiple-testing"]
 
 # Links (optional).
-url_pdf = "http://pages.cs.wisc.edu/~jieliu/papers/AOAS16_liu.pdf"
+url_pdf = "files/AOAS16_liu.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

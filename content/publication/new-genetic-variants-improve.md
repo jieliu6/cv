@@ -35,7 +35,7 @@ selected = false
 projects = ["radiogenomics"]
 
 # Links (optional).
-url_PDF = "http://pages.cs.wisc.edu/~jieliu/papers/AISTATS14_liu.pdf"
+url_PDF = "files/AISTATS14_liu.pdf"
 url_custom = [{name = "Marco Ramoni Distinguished Paper Award", url = "https://www.cs.wisc.edu/news/2014-04-24-phd-candidate-wins-award-translational-bioinformatics"}]
 
 # Does the content use math formatting?
