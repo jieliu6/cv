@@ -32,7 +32,7 @@ selected = false
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["graphical_model_learning"]
+projects = []
 
 # Links (optional).
 url_pdf = "https://papers.nips.cc/paper/4961-bayesian-estimation-of-latently-grouped-parameters-in-undirected-graphical-models.pdf"
