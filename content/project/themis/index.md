@@ -1,15 +1,12 @@
 +++
 # Date this page was created.
-date = "2016-04-27"
+date = "2017-09-20"
 
 # Project title.
 title = "Tumor Heterogeneity Anaysis"
 
 # Project summary to display on homepage.
 summary = "Comprehensive statistical inference of the clonal structure of cancer from multiple biopsies."
-
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "THEMIS-2.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -18,8 +15,17 @@ tags = ["machine-learning","precision-medicine"]
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
-# Does the project detail page use math formatting?
-math = false
+# Featured image
+# To use, add an image named `featured.jpg/png` to your project's folder. 
+[image]
+  preview_only = true
+ 
+  # Caption (optional)
+  caption = ""
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Smart"
 
 +++
 

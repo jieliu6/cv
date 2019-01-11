@@ -1,15 +1,12 @@
 +++
 # Date this page was created.
-date = "2016-04-27"
+date = "2017-09-20"
 
 # Project title.
 title = "Personalized Breast Cancer Diagnosis"
 
 # Project summary to display on homepage.
 summary = "Our results show that radiologists can potentially use genetic variants (SNPs) to improve personalized breast cancer diagnosis."
-
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "radiogenomics_result1.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -18,9 +15,19 @@ tags = ["precision-medicine"]
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
-# Does the project detail page use math formatting?
-math = false
+# Featured image
+# To use, add an image named `featured.jpg/png` to your project's folder. 
+[image]
+  preview_only = true
+ 
+  # Caption (optional)
+  caption = ""
 
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Smart"
+
++++
 +++
 
 High hopes for using genetic profiling for personalized medicine have been, in part, driven by the rapid progress of genome-wide association studies, which continue identifying more common genetic variants associated with diseases with high population prevalence. In particular, the recent Collaborative Oncological Gene-environment Study (COGS), which pooled large quantities of genetic data via a massive international collaboration, more than doubled the number of known susceptibility loci that are associated to common cancers (breast, ovarian and prostate cancers). For breast cancer, over 130 institutions have collaborated and identified 41 new breast cancer associated variants. One way these genetic variants could be used in clinical breast cancer care is in individualized screening recommendations and personalized diagnosis. Early attempts to incorporate genetic variants into breast cancer risk models revealed modest improvements in risk prediction accuracy. For example, adding seven SNPs to the Gail model only increased the area under the ROC curve (AUROC) from 0.607 to 0.632 (Gail 2008, 2009). When ten SNPs were added to the Gail model, the AUROC increased from 0.580 to 0.618 on another dataset (Wacholder et al 2010). Incorporating these genetic variants with the mammographic findings to assess individualized risk will be highly relevant to clinical breast cancer diagnosis. 

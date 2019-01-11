@@ -1,6 +1,19 @@
+# Configuration of Academic
+# Documentation: https://sourcethemes.com/academic/
+#
+# This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
+# Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
+
+# The URL of your website.
+# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://jieliu6.github.io/"
-title = "Jie Liu"
-copyright = "&copy; 2018 Jie Liu"
+# Title of your site
+title = "Jie Liu Lab"
+
+# Your copyright notice - appears in site footer.
+# To display a copyright symbol, type `&copy;`.
+copyright = "&copy; 2017-2019 Jie Liu"
+
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -12,11 +25,15 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-132341814-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
+hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
+
+# Get last modified date for content from Git?
+enableGitInfo = false
 
 [outputs]
   home = [ "HTML", "CSS", "RSS" ]
@@ -28,6 +45,7 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true  # `true` opens external links in a new tab.
   fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
+  extensions = ["backslashLineBreak"]
 
 [params]
   # Color theme.
@@ -40,19 +58,18 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Jie Liu"
-  role = "Senior Fellow"
+  role = "Assistant Professor of Computational Medicine and Bioinformatics"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Washington", url = "" } ]
+  organizations = [ { name = "University of Michigan", url = "https://medicine.umich.edu/dept/dcmb/jie-liu-phd" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "liu6@uw.edu"
-  address = "South Foege Building, S-220, 3720 15th Ave NE, Seattle WA 98195"
 
-  # Enable Keybase in Contact widget by entering your keybase.io username.
-  keybase = ""
+  # Details for the Contact Widget
+  email = "drjieliu@umich.edu"
+  address = "Palmer Commons 2035D"
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
@@ -83,6 +100,9 @@ defaultContentLanguageInSubdir = false
   longitude = "-122.1697"
   zoom = 15
 
+  # Enable users to switch between day and night mode?
+  day_night = true
+
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Jan 2, 2006"
@@ -90,7 +110,7 @@ defaultContentLanguageInSubdir = false
   time_format = "3:04 PM"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time = false
 
   # Display comment count? Requires commenting to be enabled.
   comment_count = true
@@ -136,9 +156,14 @@ defaultContentLanguageInSubdir = false
   # Enable native social sharing buttons?
   sharing = true
 
+  # Privacy pack
+  #   Show a cookie consent message to visitors
+  #   Anonymize IP in Google Analytics (if enabled)
+  privacy_pack = false
+
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = ["custom.css"]
   custom_js  = []
 
   # Publication types.
@@ -149,12 +174,12 @@ defaultContentLanguageInSubdir = false
   #   For multi-lingual sites, copy this block to each language section at the end of this file.
   publication_types = [
     'Uncategorized',  # 0
-    'Conference proceedings',  # 1
-    'Journal',  # 2
-    'Work in progress',  # 3
-    'Technical report',  # 4
+    'Conference paper',  # 1
+    'Journal article',  # 2
+    'Manuscript',  # 3
+    'Report',  # 4
     'Book',  # 5
-    'Book chapter'  # 6
+    'Book section'  # 6
   ]
 
   # Configuration of talk pages.
@@ -200,8 +225,8 @@ defaultContentLanguageInSubdir = false
 
   [[params.social]]
     icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:liu6@uw.edu"
+    icon_pack = "fas"
+    link = "mailto:drjieliu@umichi.edu"
 
   [[params.social]]
     icon = "google-scholar"
@@ -210,13 +235,16 @@ defaultContentLanguageInSubdir = false
 
   [[params.social]]
     icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/jieliu6"
+    icon_pack = "fab"
+    link = "https://github.com/jieliu6"
 
+  # Link to a PDF of your resume/CV from the About widget.
+  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+  # [[params.social]]
   [[params.social]]
-    icon = "file"
-    icon_pack = "fa"
-    link = "files/CV_liu.pdf"
+    icon = "cv"
+    icon_pack = "ai"
+    link = "files/cv.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -232,24 +260,29 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications"
+  name = "Projects"
+  url = "#projects"
   weight = 2
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Publications"
+  url = "#publications"
   weight = 3
 
 [[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 4
+  name = "Posts"
+  url = "#posts"
+  weight = 4  
+
+[[menu.main]]
+ name = "Members"
+ url = "#members"
+ weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 6
 
 # Taxonomies.
 [taxonomies]
@@ -259,7 +292,20 @@ defaultContentLanguageInSubdir = false
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
+#   Refer to https://sourcethemes.com/academic/docs/language/
 
 # Configure the English version of the website.
-[Languages.en]
+[languages.en]
   languageCode = "en-us"
+
+# Uncomment the lines below to configure your website in a second language.
+#[languages.zh]
+#  languageCode = "zh-Hans"
+#  title = "Chinese website title..."
+#  [languages.zh.params]
+#    name = "Your name in Chinese..."
+#    role = "Your role in Chinese..."
+#  [[languages.zh.menu.main]]
+#    name = "Wo"
+#    url = "#about"
+#    weight = 1

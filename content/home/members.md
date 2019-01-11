@@ -1,25 +1,24 @@
 +++
 # Projects widget.
-# This widget displays all projects from `content/project/`.
 widget = "projects"
 active = true
-date = "2016-04-20T00:00:00"
+date = "2019-01-09T00:00:00"
 
-title = "Projects"
+title = "Member"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 10
+weight = 20
 
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-folder = "project"
+folder = "people"
 
 # View.
 # Customize how projects are displayed.
-# Legend: 0 = list, 1 = cards, 2 = showcase.
-view = 2
+# Legend: 0 = list, 1 = cards.
+view = 1
 
 # Widget layout
 # Legend: 0 = two columns (default), 1 = single column
@@ -39,14 +38,4 @@ filter_default = 0
 [[filter]]
   name = "All"
   tag = "*"
-
-[[filter]]
-name = "Precision Medicine"
-tag = ".precision-medicine"
-  
-[[filter]]
-name = "Machine Learning"
-tag = ".machine-learning"
-
 +++
-
