@@ -41,12 +41,16 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
+name = "4D Nucleome"
+tag = "4D Nucleome"
+
+[[filter]]
 name = "Precision Medicine"
-tag = ".precision-medicine"
+tag = "precision-medicine"
   
 [[filter]]
 name = "Machine Learning"
-tag = ".machine-learning"
+tag = "machine-learning"
 
 +++
 

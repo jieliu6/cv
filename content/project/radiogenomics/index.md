@@ -6,7 +6,7 @@ date = "2017-09-20"
 title = "Personalized Breast Cancer Diagnosis"
 
 # Project summary to display on homepage.
-summary = "Our results show that radiologists can potentially use genetic variants (SNPs) to improve personalized breast cancer diagnosis."
+summary = "Our results show that radiologists can potentially use genetic variants (SNPs) to improve personalized breast cancer diagnosis (Marco Ramoni Distinguished Paper Award)."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

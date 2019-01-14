@@ -8,7 +8,7 @@
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://jieliu6.github.io/"
 # Title of your site
-title = "Jie Liu Lab"
+title = "Liu Lab"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.

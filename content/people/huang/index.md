@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2019-01-08"
+date = "2019-01-06"
 
 # Project title.
 title = "Yuanhao Huang"

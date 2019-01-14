@@ -6,7 +6,7 @@ date = "2017-09-20"
 title = "Tumor Heterogeneity Anaysis"
 
 # Project summary to display on homepage.
-summary = "Comprehensive statistical inference of the clonal structure of cancer from multiple biopsies."
+summary = "Comprehensive statistical inference of the clonal structure of cancer from multiple biopsies (Supported by Moore-Sloan Data Science Environment Fellowship)."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

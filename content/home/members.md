@@ -4,7 +4,7 @@ widget = "projects"
 active = true
 date = "2019-01-09T00:00:00"
 
-title = "Member"
+title = "Members"
 subtitle = ""
 
 # Order that this section will appear in.
