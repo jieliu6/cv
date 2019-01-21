@@ -10,7 +10,7 @@ summary = "The first computational embedding method for single cells in terms of
 
 # Tags: can be used for filtering projects.
 # Example: tags = ["machine-learning", "deep-learning"]
-tags = ["4D Nucleome"]
+tags = ["4D Nucleome", "machine-learning"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
