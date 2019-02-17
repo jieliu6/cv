@@ -23,11 +23,14 @@ publication_short = "In *AMIA-TBI*"
 # Abstract and optional shortened version.
 abstract = "Recent large-scale genome-wide association studies (GWAS) have identified a number of new genetic variants associated with breast cancer. However, the degree to which these genetic variants improve breast cancer diagnosis in concert with mammography remains unknown. We conducted a case-control study and collected mammography features and 77 genetic variants which reflect the state of the art GWAS findings on breast cancer. A naïve Bayes model was developed on the mammography features and these genetic variants. We observed that the incorporation of the genetic variants significantly improved breast cancer diagnosis based on mammographic findings."
 
-# Featured image thumbnail (optional)
-image_preview = ""
+# Summary. An optional shortened abstract.
+summary = ""
 
-# Is this a selected publication? (true/false)
-selected = false
+# Digital Object Identifier (DOI)
+doi = ""
+
+# Is this a featured publication? (true/false)
+feature = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

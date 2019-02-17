@@ -3,7 +3,6 @@
 # This widget displays all projects from `content/project/`.
 widget = "projects"
 active = true
-date = "2016-04-20T00:00:00"
 
 title = "Projects"
 subtitle = ""
@@ -17,9 +16,10 @@ weight = 10
 folder = "project"
 
 # View.
-# Customize how projects are displayed.
-# Legend: 0 = list, 1 = cards, 2 = showcase.
-view = 2
+#   1 = List
+#   3 = Card
+#   5 = Showcase
+view = 5
 
 # Widget layout
 # Legend: 0 = two columns (default), 1 = single column

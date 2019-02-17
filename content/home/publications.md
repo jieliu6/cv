@@ -3,7 +3,6 @@
 # This widget displays recent publications from `content/publication/`.
 widget = "publications"
 active = true
-date = 2016-04-20
 
 title = "Publications"
 subtitle = ""
@@ -14,12 +13,12 @@ weight = 30
 # Number of publications to list.
 count = 5
 
-# List format.
-#   0 = Simple
-#   1 = Detailed
-#   2 = APA
-#   3 = MLA
-list_format = 2
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+#   4 = Citation
+view = 1
 
 # Filter by publication type.
 # -1: Any

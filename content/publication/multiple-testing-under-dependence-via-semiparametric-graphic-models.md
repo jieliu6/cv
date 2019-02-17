@@ -23,11 +23,14 @@ publication_short = "In *ICML*"
 # Abstract and optional shortened version.
 abstract = " It has been shown that graphical models can be used to leverage the dependence in large-scale multiple testing problems with significantly improved performance (Sun & Cai, 2009; Liu et al., 2012). These graphical models are fully parametric and require that we know the parameterization of $f_1$ - the density function of the test statistic under the alternative hypothesis. However in practice, $f_1$ is often heterogeneous, and cannot be estimated with a simple parametric distribution. We propose a novel semiparametric approach for multiple testing under dependence, which estimates $f_1$ adaptively. This semiparametric approach exactly generalizes the local FDR procedure (Efron et al., 2001) and connects with the BH procedure (Benjamini & Hochberg, 1995). A variety of simulations show that our semiparametric approach outperforms classical procedures which assume independence and the parametric approaches which capture dependence."
 
-# Featured image thumbnail (optional)
-image_preview = ""
+# Summary. An optional shortened abstract.
+summary = ""
 
-# Is this a selected publication? (true/false)
-selected = false
+# Digital Object Identifier (DOI)
+doi = ""
+
+# Is this a featured publication? (true/false)
+feature = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

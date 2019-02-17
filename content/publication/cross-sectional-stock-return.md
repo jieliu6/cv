@@ -23,11 +23,14 @@ publication_short = "In *Applied Economics Letters*"
 # Abstract and optional shortened version.
 abstract = "We adopt $\\varepsilon$-Support Vector Regression, a nonlinear regression method, to analyse the relationship between stock return and explanatory factors. Computational results show $\\varepsilon$-SVR outperforms significantly the Ordinary Least Squares linear regression with a much higher $R^2$ and a lower standard error."
 
-# Featured image thumbnail (optional)
-image_preview = ""
+# Summary. An optional shortened abstract.
+summary = ""
 
-# Is this a selected publication? (true/false)
-selected = false
+# Digital Object Identifier (DOI)
+doi = ""
+
+# Is this a featured publication? (true/false)
+feature = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

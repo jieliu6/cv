@@ -23,11 +23,14 @@ publication_short = "In *NIPS*"
 # Abstract and optional shortened version.
 abstract = "In large-scale applications of undirected graphical models, such as social networks and biological networks, similar patterns occur frequently and give rise to similar parameters. In this situation, it is beneficial to group the parameters for more efficient learning. We show that even when the grouping is unknown, we can infer these parameter groups during learning via a Bayesian approach. We impose a Dirichlet process prior on the parameters. Posterior inference usually involves calculating intractable terms, and we propose two approximation algorithms, namely a Metropolis-Hastings algorithm with auxiliary variables and a Gibbs sampling algorithm with “stripped” Beta approximation (Gibbs SBA). Simulations show that both algorithms outperform conventional maximum likelihood estimation (MLE). Gibbs SBA’s performance is close to Gibbs sampling with exact likelihood calculation. Models learned with Gibbs SBA also generalize better than the models learned by MLE on real-world Senate voting data."
 
-# Featured image thumbnail (optional)
-image_preview = ""
+# Summary. An optional shortened abstract.
+summary = ""
 
-# Is this a selected publication? (true/false)
-selected = false
+# Digital Object Identifier (DOI)
+doi = ""
+
+# Is this a featured publication? (true/false)
+feature = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

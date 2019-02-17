@@ -23,11 +23,14 @@ publication_short = "In *Acad Radiol*"
 # Abstract and optional shortened version.
 abstract = "Technology advances in genome-wide association studies (GWAS) has engendered optimism that we have entered a new age of precision medicine, in which the risk of breast cancer can be predicted on the basis of a person's genetic variants. The goal of this study is to evaluate the discriminatory power of common genetic variants in breast cancer risk estimation. We conducted a retrospective case-control study drawing from an existing personalized medicine data repository. We collected variables that predict breast cancer risk: 153 high-frequency/low-penetrance genetic variants, reflecting the state-of-the-art GWAS on breast cancer, mammography descriptors and BI-RADS assessment categories in the Breast Imaging Reporting and Data System (BI-RADS) lexicon. We trained and tested naïve Bayes models by using these predictive variables. We generated ROC curves and used the area under the ROC curve (AUC) to quantify predictive performance. We found that genetic variants achieved comparable predictive performance to BI-RADS assessment categories in terms of AUC (0.650 vs. 0.659, p-value = 0.742), but significantly lower predictive performance than the combination of BI-RADS assessment categories and mammography descriptors (0.650 vs. 0.751, p-value < 0.001). A better understanding of relative predictive capability of genetic variants and mammography data may benefit clinicians and patients to make appropriate decisions about breast cancer screening, prevention, and treatment in the era of precision medicine."
 
-# Featured image thumbnail (optional)
-image_preview = ""
+# Summary. An optional shortened abstract.
+summary = ""
 
-# Is this a selected publication? (true/false)
-selected = false
+# Digital Object Identifier (DOI)
+doi = ""
+
+# Is this a featured publication? (true/false)
+feature = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

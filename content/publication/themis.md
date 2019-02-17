@@ -24,11 +24,14 @@ publication_short = "In *Scientific Reports*"
 abstract = "A comprehensive characterization of tumor genetic heterogeneity is critical for understanding how cancers evolve and escape treatment. Although many algorithms have been developed for capturing tumor heterogeneity, they are designed for analyzing either a single type of genomic aberration or individual biopsies. Here we present THEMIS (Tumor Heterogeneity Extensible Modeling via an Integrative System), which allows for the joint analysis of different types of genomic aberrations from multiple biopsies taken from the same patient, using a dynamic graphical model. Simulation experiments demonstrate higher accuracy of THEMIS over its ancestor, TITAN. The heterogeneity analysis results from THEMIS are validated with single cell DNA sequencing from a clinical tumor biopsy. When THEMIS is used to analyze tumor heterogeneity among multiple biopsies from the same patient, it helps to reveal the mutation accumulation history, track cancer progression, and identify the mutations related to treatment resistance. We implement our model via an extensible modeling platform, which makes our approach open, reproducible, and easy for others to extend."
 abstract_short = ""
 
-# Featured image thumbnail (optional)
-image_preview = ""
+# Summary. An optional shortened abstract.
+summary = ""
 
-# Is this a selected publication? (true/false)
-selected = false
+# Digital Object Identifier (DOI)
+doi = ""
+
+# Is this a featured publication? (true/false)
+feature = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

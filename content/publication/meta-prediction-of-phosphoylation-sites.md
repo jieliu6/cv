@@ -23,11 +23,14 @@ publication_short = "In *Nucleic Acids Res*"
 # Abstract and optional shortened version.
 abstract = "Meta-predictors make predictions by organizing and processing the predictions produced by several other predictors in a defined problem domain. A proficient meta-predictor not only offers better predicting performance than the individual predictors from which it is constructed, but it also relieves experimentally researchers from making difficult judgments when faced with conflicting results made by multiple prediction programs. As increasing numbers of predicting programs are being developed in a large number of fields of life sciences, there is an urgent need for effective meta-prediction strategies to be investigated. We compiled four unbiased phosphorylation site datasets, each for one of the four major serine/threonine (S/T) protein kinase families-CDK, CK2, PKA and PKC. Using these datasets, we examined several meta-predicting strategies with 15 phosphorylation site predictors from six predicting programs: GPS, KinasePhos, NetPhosK, PPSP, PredPhospho and Scansite. Meta-predictors constructed with a generalized weighted voting meta-predicting strategy with parameters determined by restricted grid search possess the best performance, exceeding that of all individual predictors in predicting phosphorylation sites of all four kinase families. Our results demonstrate a useful decision-making tool for analysing the predictions of the various S/T phosphorylation site predictors."
 
-# Featured image thumbnail (optional)
-image_preview = ""
+# Summary. An optional shortened abstract.
+summary = ""
 
-# Is this a selected publication? (true/false)
-selected = false
+# Digital Object Identifier (DOI)
+doi = ""
+
+# Is this a featured publication? (true/false)
+feature = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

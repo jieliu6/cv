@@ -23,11 +23,14 @@ publication_short = "In *AMIA Symposium*"
 # Abstract and optional shortened version.
 abstract = "Several recent genome-wide association studies have identified genetic variants associated with breast cancer. However, how much these genetic variants may help advance breast cancer risk prediction based on other clinical features, like mammographic findings, is unknown. We conducted a retrospective case-control study, collecting mammographic findings and high-frequency/ low-penetrance genetic variants from an existing personalized medicine data repository. A Bayesian network was developed using Tree Augmented Naive Bayes (TAN) by training on the mammographic findings, with and without the 22 genetic variants collected. We analyzed the predictive performance using the area under the ROC curve, and found that the genetic variants significantly improved breast cancer risk prediction on mammograms. We also identified the interaction effect between the genetic variants and collected mammographic findings in an attempt to link genotype to ammographic phenotype to better understand disease patterns, mechanisms, and/or natural history."
 
-# Featured image thumbnail (optional)
-image_preview = ""
+# Summary. An optional shortened abstract.
+summary = ""
 
-# Is this a selected publication? (true/false)
-selected = false
+# Digital Object Identifier (DOI)
+doi = ""
+
+# Is this a featured publication? (true/false)
+feature = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

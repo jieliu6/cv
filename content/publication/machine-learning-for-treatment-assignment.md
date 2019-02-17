@@ -23,11 +23,14 @@ publication_short = "In *AMIA Symposium*"
 # Abstract and optional shortened version.
 abstract = "Clinical studies model the average treatment effect (ATE), but apply this population-level effect to future individuals. Due to recent developments of machine learning algorithms with useful statistical guarantees, we argue instead for modeling the individualized treatment effect (ITE), which has better applicability to new patients. We compare ATE-estimation using randomized and observational analysis methods against ITE-estimation using machine learning, and describe how the ITE theoretically generalizes to new population distributions, whereas the ATE may not. On a synthetic data set of statin use and myocardial infarction (MI), we show that a learned ITE model improves true ITE-estimation and outperforms the ATE. We additionally argue that ITE models should be learned with a consistent, nonparametric algorithm from unweighted examples and show experiments in favor of our argument using our synthetic data model and a real data set of D-penicillamine use for primary biliary cirrhosis."
 
-# Featured image thumbnail (optional)
-image_preview = ""
+# Summary. An optional shortened abstract.
+summary = ""
 
-# Is this a selected publication? (true/false)
-selected = false
+# Digital Object Identifier (DOI)
+doi = ""
+
+# Is this a featured publication? (true/false)
+feature = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

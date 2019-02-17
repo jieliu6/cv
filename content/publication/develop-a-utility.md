@@ -23,11 +23,14 @@ publication_short = "In *J. of Medical Imaging*"
 # Abstract and optional shortened version.
 abstract = "Combining imaging and genetic information to predict disease presence and progression is being codified into an emerging discipline called “radiogenomics.” Optimal evaluation methodologies for radiogenomics have not been well established. We aim to develop a decision framework based on utility analysis to assess predictive models for breast cancer diagnosis. We garnered Gail risk factors, single nucleotide polymorphisms (SNPs), and mammographic features from a retrospective case-control study. We constructed three logistic regression models built on different sets of predictive features: (1) Gail, (2) Gail + Mammo, and (3) Gail + Mammo + SNP. Then we generated receiver operating characteristic (ROC) curves for three models. After we assigned utility values for each category of outcomes (true negatives, false positives, false negatives, and true positives), we pursued optimal operating points on ROC curves to achieve maximum expected utility of breast cancer diagnosis. We performed McNemar’s test based on threshold levels at optimal operating points, and found that SNPs and mammographic features played a significant role in breast cancer risk estimation. Our study comprising utility analysis and McNemar’s test provides a decision framework to evaluate predictive models in breast cancer risk estimation."
 
-# Featured image thumbnail (optional)
-image_preview = ""
+# Summary. An optional shortened abstract.
+summary = ""
 
-# Is this a selected publication? (true/false)
-selected = false
+# Digital Object Identifier (DOI)
+doi = ""
+
+# Is this a featured publication? (true/false)
+feature = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

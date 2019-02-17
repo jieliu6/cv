@@ -23,11 +23,14 @@ publication_short = "In *AMIA Joint Summits*"
 # Abstract and optional shortened version.
 abstract = "Recent large-scale genome-wide association studies (GWAS) have identified a number of genetic variants associated with breast cancer which showed great potential for clinical translation, especially in breast cancer diagnosis via mammograms. However, the amount of interaction between these genetic variants and mammographic features that can be leveraged for personalized diagnosis remains unknown. Our study utilizes germline genetic variants and mammographic features that we collected in a breast cancer case-control study. By computing the conditional mutual information between the genetic variants and mammographic features given the breast cancer status, we identified six interaction pairs which elevate breast cancer risk and five interaction pairs which reduce breast cancer risk"
 
-# Featured image thumbnail (optional)
-image_preview = ""
+# Summary. An optional shortened abstract.
+summary = ""
 
-# Is this a selected publication? (true/false)
-selected = false
+# Digital Object Identifier (DOI)
+doi = ""
+
+# Is this a featured publication? (true/false)
+feature = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
