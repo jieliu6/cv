@@ -53,7 +53,7 @@ user_groups = ["Principal Invistigator"]
 [[social]]
   icon = "cv"
   icon_pack = "ai"
-  link = "files/cv.pdf"
+  link = "files/CV_liu.pdf"
 
 +++
 

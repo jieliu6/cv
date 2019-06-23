@@ -1,15 +1,15 @@
 +++
 # Display name
-name = "Fan Feng"
+name = "Mingyu Du"
 
 # Username (this should match the folder name)
-authors = ["feng"]
+authors = ["du"]
 
 # Is this the primary user of the site?
 superuser = false
 
 # Role/position
-role = "PhD student<br />DCMB"
+role = "Master student<br />Biostatistics"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -28,5 +28,5 @@ user_groups = ["Students"]
 
 # List qualifications (such as academic degrees)
 
-weight = 1
+weight = 6
 +++

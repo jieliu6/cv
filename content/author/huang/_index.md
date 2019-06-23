@@ -9,7 +9,7 @@ authors = ["huang"]
 superuser = false
 
 # Role/position
-role = "Master student"
+role = "Master student<br />DCMB"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -28,4 +28,5 @@ user_groups = ["Students"]
 
 # List qualifications (such as academic degrees)
 
+weight = 3
 +++
