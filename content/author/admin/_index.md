@@ -13,7 +13,7 @@ role = "Assistant Professor"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Michigan", url = "" } ]
+organizations = [  { name = "University of Michigan", url = "" }  ]
 
 # Short bio (displayed in user profile at end of posts)
 
@@ -36,7 +36,7 @@ user_groups = ["Principal Invistigator"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:drjieliu@umichi.edu"
+  link = "mailto:drjieliu@umich.edu"
 
 [[social]]
   icon = "google-scholar"

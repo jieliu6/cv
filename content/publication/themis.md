@@ -17,7 +17,7 @@ authors = ["__J Liu__", "J Halloran", "J Bilmes", "R Daza", "C Lee", "E Mahen", 
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Accepted by Nature *Scientific Reports*"
+publication = "In Nature *Scientific Reports*"
 publication_short = "In *Scientific Reports*"
 
 # Abstract and optional shortened version.
