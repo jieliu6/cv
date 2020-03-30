@@ -38,7 +38,9 @@ featured = true
 projects = ["single-cell-multi-omics-integration"]
 
 # Links (optional).
-url_preprint = "https://www.biorxiv.org/content/biorxiv/early/2019/05/21/644310.full-text.pdf"
+url_PDF = "files/mmd-ma.pdf"
+url_code = "https://noble.gs.washington.edu/proj/mmd-ma/"
+
 
 # Does the content use math formatting?
 math = true
