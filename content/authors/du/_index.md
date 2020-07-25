@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MS Bioinformatics<br /> Current - PhD Student<br />Bioinformatics<br /> University of California-Irvine
+role: MS Biostatistics<br /> Current - PhD Student<br />Bioinformatics<br /> University of California-Irvine
 
 # Organizations/Affiliations
 organizations:

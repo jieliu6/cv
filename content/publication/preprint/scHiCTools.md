@@ -26,8 +26,8 @@ abstract: Single-cell Hi-C (scHi-C) sequencing technologies allow us to investig
 # Summary. An optional shortened abstract.
 # summary: 
 
-tags:
-- Source Themes
+# tags:
+# - Source Themes
 featured: false
 
 # links:

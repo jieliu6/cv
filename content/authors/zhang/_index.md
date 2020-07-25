@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MS Bioinformatics<br />Current - PhD student<br />DCMB<br />University of Michigan
+role: MS Biostatistics<br />Current - PhD student<br />DCMB<br />University of Michigan
 
 # Organizations/Affiliations
 organizations:
