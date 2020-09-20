@@ -62,12 +62,6 @@ education:
   - course: PhD in Computer Science
     institution: University of Wisconsin - Madison
     year: 2014
-  - course: Master in Signal and Information Processing
-    institution: Peking University
-    year: 2007
-  - course: Bachelor in Info. Management & Info. Systems
-    institution: Beijing Univ. of Posts and Telecom
-    year: 2004
 ---
 
 Dr. Liu's research lab aims to develop machine learning approaches for real-world bioinformatics and medical informatics problems. We believe that computational methods are essential in order to understand many of these molecular biology problems, including the dynamics of genome conformation and nuclear organization, gene regulation, cellular networks, and the genetic basis of human diseases. 

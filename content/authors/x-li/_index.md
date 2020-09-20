@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master student<br />Biostatistics
+role: Master student<br />Statistics
 
 # Organizations/Affiliations
 organizations:

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student<br />DCMB<br />co-advised with Dr. Joerg Waldhaus
+role: PhD student<br />DCMB<br />co-advised by Dr. Joerg Waldhaus
 
 # Organizations/Affiliations
 organizations:
