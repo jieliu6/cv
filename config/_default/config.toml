@@ -13,7 +13,7 @@ baseurl = "https://jieliu6.github.io/"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2017-2020 Jie Liu"
+copyright = "&copy; 2017-2021 Jie Liu"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-132341814-1"

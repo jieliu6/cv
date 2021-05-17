@@ -18,6 +18,11 @@
   url = "#publications"
   weight = 30
 
+[[main]]
+  name = "News"
+  url = "news"
+  weight = 15
+
 # [[main]]
 #  name = "Software"
 #  url = "software/"

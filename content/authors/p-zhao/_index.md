@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master student<br />Biostatistics
+role: MS Biostatistics<br /> Current - PhD Student<br />Biostatistics<br /> University of Michigan
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: 
-- Students
+- StudentsAlumni
 
 # List qualifications (such as academic degrees)
 
