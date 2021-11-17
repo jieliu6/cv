@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Tianjun Li
+name: Xiaotong Xu
 
 # Username (this should match the folder name)
 authors: 
-- tian-li
+- xiaotong-xu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate<br />EECS
+role: Undergraduate<br />CS-LSA
 
 # Organizations/Affiliations
 organizations:
@@ -31,5 +31,5 @@ user_groups:
 
 # List qualifications (such as academic degrees)
 
-weight: 17
+weight: 26
 ---

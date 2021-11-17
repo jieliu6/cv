@@ -3,7 +3,7 @@ title = "Mapping the regulatory landscape of auditory hair cells from single-cel
 date = "2021-04-09"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["S Wang", "M P. Lee", "S Jones", "__J Liu__", "J Waldhaus"]
+authors = ["__S Wang__", "M P. Lee", "S Jones", "__J Liu__", "J Waldhaus"]
 
 # Publication type.
 # Legend:

@@ -3,7 +3,7 @@ title = "p53 Integrates Temporal WDR5 Inputs during Neuroectoderm and Mesoderm D
 date = "2020-01-14"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Q Li", "F Mao", "B Zhou", "Y Huang", "Z Zou", "A DenDekker", "J Xu", "S Hou", "__J Liu__", "Y Dou", "R Rao"]
+authors = ["Q Li", "F Mao", "B Zhou", "__Y Huang__", "Z Zou", "A DenDekker", "J Xu", "S Hou", "__J Liu__", "Y Dou", "R Rao"]
 
 # Publication type.
 # Legend:

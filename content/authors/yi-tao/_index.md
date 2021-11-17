@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Chenghao Shuangguan
+name: Yicheng Tao
 
 # Username (this should match the folder name)
 authors: 
-- shuangguan
+- yi-tao
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master Student<br />Biostatistics
+role: Master Student<br />CSE
 
 # Organizations/Affiliations
 organizations:
@@ -31,5 +31,5 @@ user_groups:
 
 # List qualifications (such as academic degrees)
 
-weight: 15
+weight: 7
 ---

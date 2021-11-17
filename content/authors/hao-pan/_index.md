@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Tianjun Li
+name: Hao Pan
 
 # Username (this should match the folder name)
 authors: 
-- tian-li
+- hao-pan
 
 # Is this the primary user of the site?
 superuser: false
@@ -31,5 +31,5 @@ user_groups:
 
 # List qualifications (such as academic degrees)
 
-weight: 17
+weight: 25
 ---

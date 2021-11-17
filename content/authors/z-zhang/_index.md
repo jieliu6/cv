@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: BS Statistics (CUHK-SZ)<br />Current - Master student<br />Industrial Engineering<br />Georgia Institute of Technology
+role: Master student<br />CSE
 
 # Organizations/Affiliations
 organizations:
-- name: Georgia Institute of Technology
+- name: University of Michigan
   url: ""
 # Short bio (displayed in user profile at end of posts)
 
@@ -26,7 +26,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: 
-- Alumni
+- Students
 
 # List qualifications (such as academic degrees)
 

@@ -31,5 +31,5 @@ user_groups:
 
 # List qualifications (such as academic degrees)
 
-weight: 13
+weight: 6
 ---

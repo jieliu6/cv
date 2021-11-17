@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate<br />CS(LSA)
+role: Undergraduate<br />CS-LSA
 
 # Organizations/Affiliations
 organizations:
@@ -31,5 +31,5 @@ user_groups:
 
 # List qualifications (such as academic degrees)
 
-weight: 23
+weight: 29
 ---

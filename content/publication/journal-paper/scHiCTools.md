@@ -1,10 +1,10 @@
 ---
 title: "scHiCTools: a computational toolbox for analyzing single-cell Hi-C data"
 authors:
-- X Li
-- F Feng
-- H Pu
-- W Leung
+- __X Li__
+- __F Feng__
+- __H Pu__
+- __W Leung__
 - __J Liu__
 date: "2021-05-01T00:00:00Z"
 doi: ""

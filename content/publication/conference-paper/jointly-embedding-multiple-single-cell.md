@@ -3,7 +3,7 @@ title = "Jointly embedding multiple single-cell omics measurements"
 date = "2019-06-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["__J Liu__", "Y Huang", "R Singh", "J Vert", "W Noble"]
+authors = ["__J Liu__", "__Y Huang__", "R Singh", "J Vert", "W Noble"]
 
 # Publication type.
 # Legend:
