@@ -17,8 +17,8 @@ authors = ["__J Liu__", "Y Wu", "I Ong", "D Page", "P Peissig", "C McCarty", "A 
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *AMIA Joint Summits on Translational Science*"
-publication_short = "In *AMIA Joint Summits*"
+publication = "AMIA Joint Summits on Translational Science"
+publication_short = "AMIA Joint Summits"
 
 # Abstract and optional shortened version.
 abstract = "Recent large-scale genome-wide association studies (GWAS) have identified a number of genetic variants associated with breast cancer which showed great potential for clinical translation, especially in breast cancer diagnosis via mammograms. However, the amount of interaction between these genetic variants and mammographic features that can be leveraged for personalized diagnosis remains unknown. Our study utilizes germline genetic variants and mammographic features that we collected in a breast cancer case-control study. By computing the conditional mutual information between the genetic variants and mammographic features given the breast cancer status, we identified six interaction pairs which elevate breast cancer risk and five interaction pairs which reduce breast cancer risk"

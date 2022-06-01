@@ -17,8 +17,8 @@ authors = ["__J Liu__", "C Zhang", "C McCarty", "P Peissig", "ES Burnside", "D P
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *The 28th Conference on Uncertainty in Artificial Intelligence*"
-publication_short = "In *UAI*"
+publication = "The 28th Conference on Uncertainty in Artificial Intelligence"
+publication_short = "UAI"
 
 # Abstract and optional shortened version.
 abstract = "Large-scale multiple testing tasks often exhibit dependence, and leveraging the dependence between individual tests is still one challenging and important problem in statistics. With recent advances in graphical models, it is feasible to use them to perform multiple testing under dependence. We propose a multiple testing procedure which is based on a Markov-random-field-coupled mixture model. The ground truth of hypotheses is represented by a latent binary Markov random field, and the observed test statistics appear as the coupled mixture variables. The parameters in our model can be automatically learned by a novel EM algorithm. We use an MCMC algorithm to infer the posterior probability that each hypothesis is null (termed local index of significance ), and the false discovery rate can be controlled accordingly. Simulations show that the numerical performance of multiple testing can be improved substantially by using our procedure. We apply the procedure to a real-world genome-wide association study on breast cancer, and we identify several SNPs with strong association evidence."

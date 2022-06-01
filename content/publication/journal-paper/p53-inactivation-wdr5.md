@@ -26,8 +26,8 @@ publishDate: "2021-11-11T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Stem Cell Reports*"
-publication_short: ""
+publication: "Stem Cell Reports"
+publication_short: "Stem Cell Rep."
 
 abstract: p53 alterations occur during culture of pluripotent stem cells (PSCs), but the significance of these events on epigenetic control of PSC fate determination remains poorly understood. Wdr5 deletion in p53-null (DKO) mouse ESCs (mESCs) leads to impaired self-renewal, defective retinal neuroectoderm differentiation, and de-repression of germ cell/meiosis (GCM)-specific genes. Re-introduction of a WDR5 mutant with defective H3K4 methylation activity into DKO ESCs restored self-renewal and suppressed GCM gene expression but failed to induce retinal neuroectoderm differentiation. Mechanistically, mutant WDR5 targets chromatin that is largely devoid of H3K4me3 and regulates gene expression in p53-null mESCs. Furthermore, MAX and WDR5 co-target lineage-specifying chromatin and regulate chromatin accessibility of GCM-related genes. Importantly, MAX and WDR5 are core subunits of a non-canonical polycomb repressor complex 1 responsible for gene silencing. This function, together with canonical, pro-transcriptional WDR5-dependent MLL complex H3K4 methyltransferase activity, highlight how WDR5 mediates crosstalk between transcription and repression during mESC fate choice.
 

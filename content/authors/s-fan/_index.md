@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate<br />EECS
+role: BS EECS<br /> Current - Graduate Student<br />CSE<br /> EPFL
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: 
-- Students
+- Alumni
 
 # List qualifications (such as academic degrees)
 

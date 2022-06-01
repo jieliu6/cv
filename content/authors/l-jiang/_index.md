@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Student<br />Bioinformatics
+role: PhD Student<br />DCMB
 
 # Organizations/Affiliations
 organizations:

@@ -17,8 +17,8 @@ authors = ["Q Li", "F Mao", "B Zhou", "__Y Huang__", "Z Zou", "A DenDekker", "J 
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Cell Reports*"
-publication_short = "In *Cell Reports*"
+publication = "Cell Reports"
+publication_short = "Cell Rep."
 
 # Abstract and optional shortened version.
 abstract = "How ubiquitous transcription factors (TFs) coordinate temporal inputs from broadly expressed epigenetic factors to control cell fate remains poorly understood. Here, we uncover a molecular relationship between p53, an abundant embryonic TF, and WDR5, an essential member of the MLL chromatin modifying complex, that regulates mouse embryonic stem cell fate. Wild-type Wdr5 or transient Wdr5 knockout promotes a distinct pattern of global chromatin accessibility and spurs neuroectodermal differentiation through an RbBP5-dependent process in which WDR5 binds to, and activates transcription of, neural genes. Wdr5 rescue after its prolonged inhibition targets WDR5 to mesoderm lineage-specifying genes, stimulating differentiation toward mesoderm fates in a p53-dependent fashion. Finally, we identify a direct interaction between WDR5 and p53 that enables their co-recruitment to, and regulation of, genes known to control cell proliferation and fate. Our results unmask p53-dependent mechanisms that temporally integrate epigenetic WDR5 inputs to drive neuroectoderm and mesoderm differentiation from pluripotent cells."

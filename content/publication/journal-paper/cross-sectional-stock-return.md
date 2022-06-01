@@ -17,8 +17,8 @@ authors = ["__J Liu__\\*", "Z Hu\\*", "S Tan"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Applied Economics Letters*"
-publication_short = "In *Applied Economics Letters*"
+publication = "Applied Economics Letters"
+publication_short = "Appl. Econ. Lett."
 
 # Abstract and optional shortened version.
 abstract = "We adopt $\\varepsilon$-Support Vector Regression, a nonlinear regression method, to analyse the relationship between stock return and explanatory factors. Computational results show $\\varepsilon$-SVR outperforms significantly the Ordinary Least Squares linear regression with a much higher $R^2$ and a lower standard error."

@@ -17,8 +17,8 @@ authors = ["Z Kuang", "S Geng", "__J Liu__", "S Wright", "D Page"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Uncertainty in Artificial Intelligence*"
-publication_short = "In *UAI*"
+publication = "Uncertainty in Artificial Intelligence"
+publication_short = "UAI"
 
 # Abstract and optional shortened version.
 abstract = "We study the $L_1$-regularized maximum likelihood estimator/estimation (MLE) problemfor discrete Markov random fields (MRFs), where efficient and scalable learning requires both sparse regularization and approximate inference. To address these challenges, we consider a stochastic learning framework called stochastic proximal gradient. SPG is an inexact proximal gradient algorithm, whose inexactness stems from the stochastic oracle (Gibbs sampling) for gradient approximation – exact gradient evaluation is infeasible in general due to the NP-hard inference problem for discrete MRFs. Theoretically, we provide novel verifiable bounds to inspect and control the quality of gradient approximation. Empirically, we propose the tighten asymptotically (TAY) learning strategy based on the verifiable bounds to boost the performance of SPG."

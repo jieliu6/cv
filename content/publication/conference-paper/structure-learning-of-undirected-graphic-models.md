@@ -17,8 +17,8 @@ authors = ["__J Liu__", "D Page"]
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "In *ICML 2013 Workshop on Structured Learning: Inferring Graphs from Structured and Unstructured Inputs*"
-publication_short = "In *ICML Workshop*"
+publication = "ICML 2013 Workshop on Structured Learning: Inferring Graphs from Structured and Unstructured Inputs"
+publication_short = "ICML Workshop"
 
 # Abstract and optional shortened version.
 abstract = "Structure learning of Markov random fields (MRFs) is generally NP-hard (Karger & Srebro, 2001). Many structure learners and theoretical results are under the correlation decay assumption in the sense that for any two nodes $i$ and $k$, the information about node $i$ captured by node k is less than that captured by node $j$ where $j$ is the neighbor of $i$ on the shortest path between $i$ and $k$ (Netrapalli et al., 2010). In this paper, we propose to learn structure of MRFs with contrastive divergence (Hinton, 2002) and demonstrate that our structure learner can recover the structures of these correlation non-decay MRFs."

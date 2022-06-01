@@ -17,8 +17,8 @@ authors = ["__J Liu__", "C Zhang", "ES Burnside", "D Page"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *The 17th International Conference on Artificial Intelligence and Statistics (AISTATS)*"
-publication_short = "In *AISTATS*"
+publication = "The 17th International Conference on Artificial Intelligence and Statistics"
+publication_short = "AISTATS"
 
 # Abstract and optional shortened version.
 abstract = "Hidden Markov random fields (HMRFs) are conventionally assumed to be homogeneous in the sense that the potential functions are invariant across different sites. However in some biological applications, it is desirable to make HMRFs heterogeneous, especially when there exists some background knowledge about how the potential functions vary. We formally define heterogeneous HMRFs and propose an EM algorithm whose M-step combines a contrastive divergence learner with a kernel smoothing step to incorporate the background knowledge. Simulations show that our algorithm is effective for learning heterogeneous HMRFs and outperforms alternative binning methods. We learn a heterogeneous HMRF in a real-world study."

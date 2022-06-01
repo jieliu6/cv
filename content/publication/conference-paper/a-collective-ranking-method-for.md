@@ -17,8 +17,8 @@ authors = ["__J Liu__", "H Vidaillet", "ES Burnside", "D Page"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*The ACM Conference on Bioinformatics, Computational Biology and Biomedicine*"
-publication_short = "In *ACM-BCB*"
+publication = "The ACM Conference on Bioinformatics, Computational Biology and Biomedicine"
+publication_short = "ACM-BCB"
 
 # Abstract and optional shortened version.
 abstract = "Genome-wide association studies (GWAS) analyze genetic variation (SNPs) across the entire human genome, searching for SNPs that are associated with certain phenotypes, most often diseases, such as breast cancer. In GWAS, we seek a ranking of SNPs in terms of their relevance to the given phenotype. However, because certain SNPs are known to be highly correlated with one another across individuals, it can be beneficial to take into account these correlations when ranking. If a SNP appears associated with the phenotype, and we question whether this association is real, the extent to which its neighbors (correlated SNPs) also appear associated can be informative. Therefore, we propose CollectRank, a ranking approach which allows SNPs to reinforce one another via the correlation structure. CollectRank is loosely analogous to the well-known PageRank algorithm. We first evaluate CollectRank on synthetic data generated from a variety of genetic models under different settings. The numerical results suggest CollectRank can significantly outperform common GWAS methods at the cost of a small amount of extra computation. We further evaluate CollectRank on two real-world GWAS on breast cancer and atrial fibrillation/flutter, and CollectRank performs well in both studies. We finally provide a theoretical analysis that also suggests CollectRank's advantages."

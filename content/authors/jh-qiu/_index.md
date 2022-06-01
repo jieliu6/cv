@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate<br />EECS
+role: BS EECS
 
 # Organizations/Affiliations
 organizations:

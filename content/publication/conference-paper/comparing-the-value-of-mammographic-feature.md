@@ -17,8 +17,8 @@ authors = ["Y Wu", "__J Liu__", "D Page", "P Peissig", "C McCarty", "A Onitilo",
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *American Medical Informatics Association Symposium*"
-publication_short = "In *AMIA Symposium*"
+publication = "American Medical Informatics Association Symposium"
+publication_short = "AMIA Symposium"
 
 # Abstract and optional shortened version.
 abstract = "The goal of this study was to compare the value of mammographic features and genetic variants for breast cancer risk prediction with Bayesian reasoning and information theory. We conducted a retrospective case-control study, collecting mammographic findings and high-frequency/low-penetrance genetic variants from an existing personalized medicine data repository. We trained and tested Bayesian networks for mammographic findings and genetic variants respectively. We found that mammographic findings had a higher discriminative ability than genetic variants for improving breast cancer risk prediction in terms of the area under the ROC curve. We compared the value of each mammographic feature and genetic variant for breast risk prediction in terms of mutual information, with and without consideration of interactions of those risk factors. We also identified the interactions between mammographic features and genetic variants in an attempt to prioritize mammographic features and genetic variants to efficiently predict the risk of breast cancer."

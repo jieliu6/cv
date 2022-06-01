@@ -17,8 +17,8 @@ authors = ["__J Liu__", "C Zhang", "D Page"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *The Annals of Applied Statistics*"
-publication_short = "In *Annals of Applied Statistics*"
+publication = "The Annals of Applied Statistics"
+publication_short = "Ann. Appl. Stat"
 
 # Abstract and optional shortened version.
 abstract = "Large-scale multiple testing tasks often exhibit dependence. Leveraging the dependence between individual tests is still one challenging and important problem in statistics. With recent advances in graphical models, it is feasible to use them to capture the dependence among multiple hypotheses. We propose a multiple testing procedure which is based on a Markov-random-field-coupled mixture model. The underlying true states of hypotheses are represented by a latent binary Markov random field, and the observed test statistics appear as the coupled mixture variables. The model can be learned by a novel EM algorithm. The next step is to infer the posterior probability that each hypothesis is null (termed local index of significance), and the false discovery rate can be controlled accordingly. We also provide a semiparametric variation of the graphical model which is useful in the situation where $f_1$ (the density function of the test statistic under the alternative hypothesis) is heterogeneous among multiple hypotheses. This semiparametric approach exactly generalizes the local FDR procedure [J. Amer. Statist. Assoc. 96 (2001) 1151–1160] and connects with the BH procedure [J. Roy. Statist. Soc. Ser. B 57 (1995) 289–300]. Simulations show that the numerical performance of multiple testing can be improved substantially by using our procedure. We apply the procedure to a real-world genome-wide association study on breast cancer, and we identify several SNPs with strong association evidence."

@@ -17,8 +17,8 @@ authors = ["J Fan", "Y Wu", "M Yuan", "D Page", "__J Liu__", "I Ong", "P Peissig
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Machine Learning Research*"
-publication_short = "In *JMLR*"
+publication = "Journal of Machine Learning Research"
+publication_short = "JMLR"
 
 # Abstract and optional shortened version.
 abstract = "Predicting breast cancer risk has long been a goal of medical research in the pursuit of precision medicine. The goal of this study is to develop novel penalized methods to improve breast cancer risk prediction by leveraging structure information in electronic health records. We conducted a retrospective case- control study, garnering 49 mammography descriptors and 77 high- frequency/low-penetrance single-nucleotide polymorphisms (SNPs) from an existing personalized medicine data repository. Structured mammography reports and breast imaging features have long been part of a standard electronic health record (EHR), and genetic markers likely will be in the near future. Lasso and its variants are widely used approaches to integrated learning and feature selection, and our methodological contribution is to incorporate the dependence structure among the features into these approaches. More specifically, we propose a new methodology by combining group penalty and $l^p$(1$\\leqslant$p$\\leqslant$2) fusion penalty to improve breast cancer risk prediction, taking into account structure information in mammography descriptors and SNPs. We demonstrate that our method provides benefits that are both statistically significant and potentially significant to people's lives."

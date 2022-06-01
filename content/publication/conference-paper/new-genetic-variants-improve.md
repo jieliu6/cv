@@ -17,8 +17,8 @@ authors = ["__J Liu__", "D Page", "P Peissig", "C McCarty", "A Onitilo", "A Tren
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *AMIA Summit on Translational Bioinformatics*"
-publication_short = "In *AMIA-TBI*"
+publication = "AMIA Summit on Translational Bioinformatics"
+publication_short = "AMIA-TBI"
 
 # Abstract and optional shortened version.
 abstract = "Recent large-scale genome-wide association studies (GWAS) have identified a number of new genetic variants associated with breast cancer. However, the degree to which these genetic variants improve breast cancer diagnosis in concert with mammography remains unknown. We conducted a case-control study and collected mammography features and 77 genetic variants which reflect the state of the art GWAS findings on breast cancer. A naïve Bayes model was developed on the mammography features and these genetic variants. We observed that the incorporation of the genetic variants significantly improved breast cancer diagnosis based on mammographic findings."
