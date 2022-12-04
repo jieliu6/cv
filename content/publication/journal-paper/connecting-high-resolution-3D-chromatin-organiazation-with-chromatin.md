@@ -7,7 +7,7 @@ authors:
 - X Zhang
 - __J Liu__
 date: "2022-04-19T00:00:00Z"
-doi: ""
+doi: "10.1038/s41467-022-29695-6"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-05-15T00:00:00Z"
@@ -20,7 +20,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Nature Communication"
-publication_short: "Nat. Commun."
+publication_short: "Nat. Commun"
 
 abstract: The resolution of chromatin conformation capture technologies keeps increasing, and the recent nucleosome resolution chromatin contact maps allow us to explore how fine-scale 3D chromatin organization is related to epigenomic states in human cells. Using publicly available Micro-C datasets, we develop a deep learning model, CAESAR, to learn a mapping function from epigenomic features to 3D chromatin organization. The model accurately predicts fine-scale structures, such as short-range chromatin loops and stripes, that Hi-C fails to detect. With existing epigenomic datasets from ENCODE and Roadmap Epigenomics Project, we successfully impute high-resolution 3D chromatin contact maps for 91 human tissues and cell lines. In the imputed high-resolution contact maps, we identify the spatial interactions between genes and their experimentally validated regulatory elements, demonstrating CAESAR’s potential in coupling transcriptional regulation with 3D chromatin organization at high resolution.
 
@@ -55,7 +55,7 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ['caesar']
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

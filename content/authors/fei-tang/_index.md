@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BS EECS</br>Current</br>Graduate Student</br>CSE</br>University of Michigan
+role: Master Student<br />CSE
 
 # Organizations/Affiliations
 organizations:
@@ -27,9 +27,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: 
-- Alumni
+- Students
 
 # List qualifications (such as academic degrees)
 
-weight: 25
+weight: 15
 ---

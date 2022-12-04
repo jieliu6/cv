@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student<br />DCMB
+role: PhD Candidate<br />DCMB
 
 # Organizations/Affiliations
 organizations:

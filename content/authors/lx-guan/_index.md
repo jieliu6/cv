@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Xinyu Lu
+name: Lingxiao Guan
 
 # Username (this should match the folder name)
 authors: 
-- xin-lu
+- lx-guan
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: BS EECS
+role: Master Student<br />EECS
 
 # Organizations/Affiliations
 organizations:
@@ -27,9 +27,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: 
-- Alumni
+- Students
 
 # List qualifications (such as academic degrees)
 
-weight: 16
+weight: 17
 ---

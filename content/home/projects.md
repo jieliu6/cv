@@ -31,6 +31,14 @@ weight = 10
   [[content.filter_button]]
     name = "4D Nucleome"
     tag = "4d-nucleome"
+
+  [[content.filter_button]]
+    name = "Knowledge Graphs"
+    tag = "knowledge-graphs"
+
+  [[content.filter_button]]
+    name = "Predictive Models"
+    tag = "predictive-models"
   
   [[content.filter_button]]
     name = "Precision Medicine"
@@ -39,6 +47,7 @@ weight = 10
   [[content.filter_button]]
     name = "Machine Learning"
     tag = "machine-learning"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
