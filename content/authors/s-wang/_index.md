@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD candidate<br />DCMB<br />co-advised by Dr. Joerg Waldhaus
+role: Staff Scientist at MGH
 
 # Organizations/Affiliations
 organizations:
-- name: University of Michigan
+- name: MGH
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,7 +27,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: 
-- Students
+- PhD Alumni
 
 # List qualifications (such as academic degrees)
 

@@ -1,21 +1,21 @@
 ---
 # Display name
-name: Dongyu Zhu
+name: Yijia Gao
 
 # Username (this should match the folder name)
-authors:
-- dy-zhu
+authors: 
+- yj-gao
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master Student<br />UX Design
+role: Master student<br />CSE
 
 # Organizations/Affiliations
 organizations:
 - name: University of Michigan
-
+  url: ""
 # Short bio (displayed in user profile at end of posts)
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -30,5 +30,5 @@ user_groups:
 
 # List qualifications (such as academic degrees)
 
-weight: 10
+weight: 21
 ---

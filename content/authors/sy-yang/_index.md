@@ -1,20 +1,21 @@
 ---
 # Display name
-name: Dongyu Zhu
+name: Shuyuan Yang
 
 # Username (this should match the folder name)
-authors:
-- dy-zhu
+authors: 
+- sy-yang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master Student<br />UX Design
+role: Master Student<br />EECS
 
 # Organizations/Affiliations
 organizations:
 - name: University of Michigan
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 
@@ -30,5 +31,5 @@ user_groups:
 
 # List qualifications (such as academic degrees)
 
-weight: 10
+weight: 22
 ---

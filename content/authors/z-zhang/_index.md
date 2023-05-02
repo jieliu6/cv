@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master student<br />CSE
+role: PhD student<br />CSE
 
 # Organizations/Affiliations
 organizations:
@@ -30,5 +30,5 @@ user_groups:
 
 # List qualifications (such as academic degrees)
 
-weight: 10
+weight: 9
 ---

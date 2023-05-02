@@ -64,6 +64,6 @@ education:
     year: 2014
 ---
 
-Dr. Liu's research lab aims to develop machine learning approaches for real-world bioinformatics and medical informatics problems. We believe that computational methods are essential in order to understand many of these molecular biology problems, including the dynamics of genome conformation and nuclear organization, gene regulation, cellular networks, and the genetic basis of human diseases. 
+Dr. Liu’s research lab develops computational approaches for understanding the functions of the human genome and the genetic basis of human diseases. We recently have developed a knowledge graph <a href="https://gkb.dcmb.med.umich.edu/">GenomicKB</a> to accumulate human-readable knowledge about the human genome. We have also developed a computational framework EPCOT (<a href="https://github.com/zzh24zzh/EPCOT_gradio/blob/main/gradio.ipynb">Gradio</a> and <a href="https://huggingface.co/spaces/drjieliu/EPCOT">Hugging Face</a>) which comprehensively predicts multiple genomic modalities, and allows computers to accumulate knowledge about human genome.
 
 Liu Lab currently has openings for graduate students and postdocs. Please reach out to Dr. Jie Liu via email if you are interested. 

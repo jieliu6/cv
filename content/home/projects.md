@@ -39,10 +39,6 @@ weight = 10
   [[content.filter_button]]
     name = "Predictive Models"
     tag = "predictive-models"
-  
-  [[content.filter_button]]
-    name = "Precision Medicine"
-    tag = "precision-medicine"
 
   [[content.filter_button]]
     name = "Machine Learning"
