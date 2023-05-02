@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Student<br />EECS
+role: PhD Student<br />EECS
 
 # Organizations/Affiliations
 organizations:
@@ -31,5 +31,5 @@ user_groups:
 
 # List qualifications (such as academic degrees)
 
-weight: 17
+weight: 12
 ---

@@ -2,8 +2,8 @@
 title: "Characterizing collaborative transcription regulation with a
 graph-based deep learning approach"
 authors:
-- __Y Huang__
-- __B Wang__
+- __Z Zhang__ 
+- __F Feng__
 - __J Liu__
 date: "2022-06-06T00:00:00Z"
 doi: "10.1371/journal.pcbi.1010162"
