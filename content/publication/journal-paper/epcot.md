@@ -40,6 +40,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
+url_portal: 'https://liu-bioinfo-lab.github.io/EPCOT_APP.github.io/'
 
 
 # Featured image

@@ -40,12 +40,13 @@ featured: false
 #   url: ""
 url_pdf: https://watermark.silverchair.com/gkac957.pdf
 url_code: ''
-url_dataset: 'https://gkb.dcmb.med.umich.edu/'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+url_portal: 'https://gkb.dcmb.med.umich.edu/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
