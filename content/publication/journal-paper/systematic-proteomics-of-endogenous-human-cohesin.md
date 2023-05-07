@@ -36,7 +36,7 @@ feature = false
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["multiple-testing"]
+# projects = ["multiple-testing"]
 
 # Links (optional).
 url_pdf = "http://www.jbc.org/content/early/2019/04/22/jbc.RA119.007832.full.pdf"
