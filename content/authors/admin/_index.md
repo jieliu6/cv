@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -64,6 +64,6 @@ education:
     year: 2014
 ---
 
-Dr. Liu’s research lab develops computational approaches for understanding the functions of the human genome and the genetic basis of human diseases. We recently have developed a knowledge graph <a href="https://gkb.dcmb.med.umich.edu/">GenomicKB</a> to accumulate human-readable knowledge about the human genome. We have also developed a computational framework <a href="https://liu-bioinfo-lab.github.io/EPCOT_APP.github.io/">EPCOT</a> which comprehensively predicts multiple genomic modalities, and allows computers to accumulate knowledge about the human genome. In addition, we have imputed high-resolution chromatin contact maps for GTEx donors with <a href="https://nucleome.dcmb.med.umich.edu/caesar/">CAESAR</a>. 
+Dr. Liu’s research lab develops computational methods, tools, and resources for the human genome and diseases such as diabetes. Recently, the methodology focuses are knowledge graphs and foundation models. We have developed a knowledge graph <a href="https://gkb.dcmb.med.umich.edu/">GenomicKB</a> to accumulate human-readable knowledge about the human genome. We have extracted genomic knowledge from PubMed and developed another knowledge graph <a href="https://glkb.dcmb.med.umich.edu">GLKB</a>. We have also developed a genomic foundation model <a href="https://liu-bioinfo-lab.github.io/EPCOT_APP.github.io/">EPCOT</a> which comprehensively predicts multiple genomic modalities.
 
-Liu Lab currently has openings for graduate students and postdocs. Please reach out to Dr. Jie Liu via email if you are interested. 
+The lab currently participates in several NIH consortia, including 4DN, IGVF, HIRN, CFDE, and the recent PanKbase program. In particular, Dr. Liu co-leads the Machine Learning Focus Group at IGVF, co-leads the Data/Metadata Working Group at PanKbase, and leads the development of PanKgraph, the knowledge graph within the PanKbase system.

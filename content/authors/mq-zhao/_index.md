@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Yiqun Wang
+name: Meiqi Zhao
 
 # Username (this should match the folder name)
 authors: 
-- yq-wang
+- mq-zhao
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Candidate<br />DCMB
+role: UX Design<br/>Master student<br />School of Information
 
 # Organizations/Affiliations
 organizations:
@@ -31,5 +31,5 @@ user_groups:
 
 # List qualifications (such as academic degrees)
 
-weight: 10
+weight: 22
 ---

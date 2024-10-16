@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Yiqun Wang
+name: Tiancheng Jiao
 
 # Username (this should match the folder name)
 authors: 
-- yq-wang
+- tc-jiao
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Candidate<br />DCMB
+role: Fullstack Engineer<br/>Undergraduate<br />EECS
 
 # Organizations/Affiliations
 organizations:
@@ -31,5 +31,5 @@ user_groups:
 
 # List qualifications (such as academic degrees)
 
-weight: 10
+weight: 26
 ---

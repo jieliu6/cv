@@ -10,11 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate<br />DCMB
+role: Research Fellow at Vanderbilt University
 
 # Organizations/Affiliations
 organizations:
-- name: University of Michigan
+- name: Vanderbilt University
+-url: https://medicine.vumc.org/department-directory/Fan-Feng
 
 # Short bio (displayed in user profile at end of posts)
 
@@ -26,9 +27,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: 
-- Students
+- PhD Alumni
 
 # List qualifications (such as academic degrees)
 
-weight: 1
+weight: 3
 ---

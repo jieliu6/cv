@@ -16,4 +16,4 @@ weight = 69
 +++
 
 ## Courses
-- Co-instructor, BIOINF 593/EECS 598 Machine Learning in Computational Biology, U-M, 2021 Fall, 2022 Fall
+- Co-instructor, BIOINF 593/EECS 598 Machine Learning in Computational Biology, U-M, 2021 Fall, 2022 Fall, 2023 Fall
